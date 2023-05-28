@@ -3,11 +3,11 @@ About This is a solution to Travel Journal solo project on Scrimba
 
 ## Requirements
  *Data array in a separate .jsx file - in the assets folder*
-   Title, description, price, cover image, startDate, ednDate, location...
--[] Use .map() and props
--[] Style & polished
--[] Mobile responsiveness
--[] Destructuring props
+   Title, description, images, startDate, ednDate, location...
+- Use .map() and props
+- Style & polished
+- Mobile responsiveness
+- Destructuring props
 
 ## Screenshots
 ![image](https://github.com/Lochipi/traveljournal/assets/108942025/f4bedd82-b8b6-4171-8b02-0eaa1614f758)
